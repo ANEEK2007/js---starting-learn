@@ -1,0 +1,9 @@
+const accountId = 13256743
+let accountEmail  = "gopu@google.com"
+var accountPassword = "214235356"
+accountCity = "france"
+ //accountId = 54645543
+
+ console.log(accountId);
+ 
+ console.table([accountId,accountEmail,accountPassword,accountCity])
