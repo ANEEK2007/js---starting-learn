@@ -1,9 +1,9 @@
 const accountId = 13256743
 let accountEmail  = "gopu@google.com"
-var accountPassword = "214235356"
+var accountHistory = "2year"
 accountCity = "france"
  //accountId = 54645543
 
  console.log(accountId);
  
- console.table([accountId,accountEmail,accountPassword,accountCity])
+ console.table([accountId,accountEmail,accountHistory,accountCity])
